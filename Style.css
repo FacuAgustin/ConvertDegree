@@ -1,0 +1,31 @@
+body{
+    margin-top: 40px;
+    background: #747272;
+}
+input{
+    margin-top: 20px;
+}
+h4{
+    font-size: 20px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+
+.card{
+    margin-bottom: 9px;
+}
+#card1{
+    background: #e6b3b3;
+}
+#card2{
+    background: #e6b3b3;
+}
+#card3{
+    background: #e6b3b3;
+}
+
+span{
+    color: #700404;
+    font-weight: bold;
+}
